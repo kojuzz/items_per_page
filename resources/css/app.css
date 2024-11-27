@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    input[type="text"] {
+        @apply max-w-md p-1 ring-1 ring-blue-400 rounded;
+    }
+    label {
+        @apply block font-bold;
+    }
+    .btn-primary {
+        @apply px-3 py-2 bg-blue-700 text-white rounded-md shadow;
+    }
+    .error {
+        @apply text-red-600 text-sm;
+    }
+}
