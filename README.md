@@ -1,7 +1,8 @@
-download the zip and extra
-change .env.example to .env
+1. Download the ZIP and extract it.
+2. Change `.env.example` to `.env`.
+3. Run the following commands in the terminal:
 
-bash
+```bash
 composer install
 npm install
 npm run build
