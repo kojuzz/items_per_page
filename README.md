@@ -1,6 +1,6 @@
 1. Download the ZIP and extract.
 2. Change `.env.example` to `.env`.
-3. Run the following commands in the terminal:
+3. Run the following commands in the terminal.
 
 ```bash
 composer install
