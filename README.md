@@ -13,4 +13,6 @@ composer run dev
 ```
 
 4. After running the above commands, you can browse the application at http://localhost:8000
-5. View running project at https://ipp.stun5.com
+   
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+View the running project at https://ipp.stun5.com
